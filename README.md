@@ -7,5 +7,6 @@ Login Registration System using HTML, CSS, PHP & MYSQL
 Build using:
 
  •	FrontEnd : PHP & CSS
+ 
  •	BackEnd :  SQL (PhpMyAdmin)
  
